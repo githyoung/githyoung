@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm James</h1>
 <h3 align="center">A passionate full-stack developer from Taiwan</h3>
 
-- 🌱 I’m currently learning **System design, nodejs, rust**
+- 🌱 I’m currently learning **System design, Nodejs, Rust**
 
-- 💬 Ask me about **react, nodejs, express**
+- 💬 Ask me about **React, Nextjs, Nodejs, Express**
 
 - 📫 How to reach me **githyoung@gmail.com**
 
